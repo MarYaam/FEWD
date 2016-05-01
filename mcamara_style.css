@@ -28,7 +28,7 @@ body {
 }
 
 .logo {
-    color: #f4511e;
+    color: red;
     font-size: 200px;
 }
 .thumbnail {
@@ -119,4 +119,9 @@ div#services{
 }
 .img-thumbnail{
   padding-bottom: 50px;
+}
+p {
+  font-weight: bolder;
+  font-family: cursive;
+  font-size: 20px;
 }
