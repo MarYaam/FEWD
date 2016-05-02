@@ -1,5 +1,5 @@
 body {
-  background-color: red !important;
+  background-color: #00E5EE !important;
 }
 
 .jumbotron {
@@ -124,4 +124,16 @@ p {
   font-weight: bolder;
   font-family: cursive;
   font-size: 20px;
+}
+#page2 #page5 p{
+  text-align: justify !important;
+}
+.glyphicon{
+  color: red;
+}
+.glyphicon-leaf{
+  color: green !important;
+}
+.carousel-control .glyphicon{
+  color: red;
 }
